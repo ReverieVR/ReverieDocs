@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreverie_docs=self.webpackChunkreverie_docs||[]).push([[5803],{5101:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/ReverieDocs/blog/tags/hola","allTagsPath":"/ReverieDocs/blog/tags","count":1,"unlisted":false}')}}]);
