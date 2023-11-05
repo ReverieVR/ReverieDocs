@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/ReverieDocs/blog</id>
-    <title>My Site Blog</title>
+    <title>Reverie Docs Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/ReverieDocs/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Reverie Docs Blog</subtitle>
     <icon>https://github.com/ReverieDocs/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
